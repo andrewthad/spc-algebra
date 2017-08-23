@@ -1,0 +1,7 @@
+resolver: lts-9.0
+packages:
+- '.'
+- '../quantification'
+extra-deps: []
+flags: {}
+extra-package-dbs: []
